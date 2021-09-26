@@ -1,0 +1,52 @@
+body {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  text-align: center;
+  margin: 0px;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  background-color: #efefef;
+  height: 55px;
+}
+
+header h1 {
+  text-align: left;
+  padding-left: 20px;
+  line-height: 55px;
+  font-size: 1.5em;
+}
+
+.container {
+  margin: 0px 15px;
+}
+
+.section {
+  padding-top: 30px;
+}
+
+table {
+  margin: 0px auto;
+  border-spacing: 10px;
+}
+
+.history {
+  margin: 0px auto;
+}
+
+.history > p {
+  text-align: left;
+  display: inline-block;
+}
+
+.profile-img {
+  border-radius: 50px;
+}
+
+footer {
+  padding: 50px;
+}
