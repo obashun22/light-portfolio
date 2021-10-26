@@ -5,7 +5,7 @@ const products = [
     title: "落単らくだ",
     description: "楽単した授業の情報を共有できるサイトです。",
     image_path: "./images/products/rakutan.png",
-    link: "https://rakutan-rakuda.netlify.app/"
+    link: "https://rakutan-rakuda.netlify.app"
   },
   {
     title: "通知で覚える英単語",
@@ -17,25 +17,25 @@ const products = [
     title: "Tiwtter",
     description: "タイポしたTweetができるサイトです。",
     image_path: "./images/products/tiwtter.png",
-    link: "https://tiwtter.netlify.app/"
+    link: "https://tiwtter.netlify.app"
   },
   {
     title: "I Love Generator",
     description: "「I Love 〇〇」な背景画像を生成できるサイトです。",
     image_path: "./images/products/ilove.png",
-    link: "https://obashun22.github.io/ilove/"
+    link: "https://obashun22.github.io/ilove"
   },
   {
     title: "今日の体温を決めてくれるアプリ",
     description: "今日の体温を決めてくれるサイトです。",
     image_path: "./images/products/temperature.png",
-    link: "https://obashun22.github.io/today-body-temperature/"
+    link: "https://obashun22.github.io/today-body-temperature"
   },
   {
     title: "腹筋チャレンジ",
     description: "腹筋メニューの実行回数を共有できるサイトです。",
     image_path: "./images/products/jane.png",
-    link: "https://jane-challenge.herokuapp.com/"
+    link: "https://jane-challenge.herokuapp.com"
   },
   {
     title: "Anco",
@@ -47,13 +47,13 @@ const products = [
     title: "Trimo",
     description: "旅の記録を共有できるサイトです。ハッカソンで開発しました。",
     image_path: "./images/products/trimo.png",
-    link: "https://trimo.netlify.app/"
+    link: "https://trimo.netlify.app"
   },
   {
     title: "しんぷるメモ",
     description: "ブラウザでメモが取れるサイトです。",
     image_path: "./images/products/memo.png",
-    link: "https://obashun22.github.io/simple-memo/"
+    link: "https://obashun22.github.io/simple-memo"
   },
   {
     title: "Tweeter",
@@ -77,7 +77,7 @@ const products = [
     title: "マインスイーパ",
     description: "ブラウザ上で動くマインスイーパです。",
     image_path: "./images/products/minesweeper.png",
-    link: "https://obashun22.github.io/minesweeper_webgl/"
+    link: "https://obashun22.github.io/minesweeper_webgl"
   },
   {
     title: "New Face Game",
@@ -101,7 +101,13 @@ const products = [
     title: "静水換算くん",
     description: "流水時のボートのタイムを静水換算することができるサイトです。",
     image_path: "./images/products/seisui.png",
-    link: "https://obashun22.github.io/seisui-kansan/"
+    link: "https://obashun22.github.io/seisui-kansan"
+  },
+  {
+    title: "Auto CAS Login",
+    description: "名古屋大学のCAS認証ログインを自動化するChrome拡張です。",
+    image_path: "./images/products/no_image.jpg",
+    link: "https://github.com/obashun22/auto-cas-login"
   },
 ];
 
