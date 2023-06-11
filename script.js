@@ -3,7 +3,7 @@
 const products = [
   {
     title: "落単らくだ",
-    description: "落単した授業の情報を共有できるサイトです。",
+    description: "落単した人の授業レビューを見ることができるサイトです。",
     tech: "React / Ruby on Rails / PostgreSQL / Heroku / Figma",
     image_path: "./images/products/rakutan.png",
     link: "https://rakutan-rakuda.netlify.app",
