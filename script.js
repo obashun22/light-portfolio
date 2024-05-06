@@ -31,6 +31,14 @@ const products = [
     link: "https://github.com/jphacks/C_2203",
   },
   {
+    title: "男磨き",
+    description:
+      "男を磨いてより高みを目指すゲームです。ハッカソンで開発しました。",
+    tech: "TypeScript / Phaser",
+    image_path: "./images/products/otoko_migaki.png",
+    link: "https://jack-app.github.io/jackHack2024_I",
+  },
+  {
     title: "Tiwtter",
     description: "タイポしたTweetができるサイトです。",
     tech: "React / TwitterAPI / TinySegmenter / Jacov",
