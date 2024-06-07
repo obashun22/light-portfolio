@@ -53,6 +53,13 @@ const products = [
     link: "https://obashun22.github.io/ilove",
   },
   {
+    title: "YouTube Subscriber Counter",
+    description: "任意のチャンネル登録者数を達成できるサイトです。",
+    tech: "React / Next.js / TypeScript / Redux",
+    image_path: "./images/products/yt-sub-counter.png",
+    link: "https://yt-sub-counter.vercel.app",
+  },
+  {
     title: "今日の体温を決めてくれるアプリ",
     description: "今日の体温を決めてくれるサイトです。",
     tech: "HTML / CSS / JavaScript",
