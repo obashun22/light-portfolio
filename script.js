@@ -23,6 +23,13 @@ const products = [
     link: "https://apps.apple.com/jp/app/%E9%80%9A%E7%9F%A5%E3%81%A7%E8%A6%9A%E3%81%88%E3%82%8B%E8%8B%B1%E5%8D%98%E8%AA%9E/id1537063008",
   },
   {
+    title: "ぼっち回避くん",
+    description: '"研究室に来たら誰も居ない"を回避できる映像配信システムです。',
+    tech: "RaspberryPi / MJPG-Streamer",
+    image_path: "./images/products/botch_kaihi.jpeg",
+    link: "https://jackun-blog.vercel.app/e918cada-1240-4187-85a1-82ab10692a31",
+  },
+  {
     title: "ひろうけん",
     description:
       "ゴミを検知して回収してくれるペット型ゴミ拾いロボットです。ハッカソンで開発しました。",
